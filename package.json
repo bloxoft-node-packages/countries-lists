@@ -1,0 +1,30 @@
+{
+  "name": "countries-lists",
+  "version": "1.0.0",
+  "description": "Optimized country, state, city map with lightning query speed",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country",
+    "state",
+    "city",
+    "locale",
+    "map"
+  ],
+  "author": "Bloxoft",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "data",
+    "data/"
+  ]
+}
